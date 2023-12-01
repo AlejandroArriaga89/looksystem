@@ -21,12 +21,12 @@
     <div class="container">
         <form action="./addAction.php" method="get">
             <div class="form-group">
-                <label for="proveedor" class="form-label mt-4">Nombre del proveedor</label>
+                <label for="proveedor" class="form-label mt-4">Nombre del proveedor consumible</label>
                 <input type="text" class="form-control" id="proveedor" name="proveedor" required>
             </div>
             <div class="form-group">
                 <label for="email" class="form-label mt-4">Email </label>
-                <input type="direccion web" class="form-control" id="email" name="email" required>
+                <input type="email" class="form-control" id="email" name="email" required>
             </div>
             <div class="form-group">
                 <label for="telefono" class="form-label mt-4">Telefono</label>
